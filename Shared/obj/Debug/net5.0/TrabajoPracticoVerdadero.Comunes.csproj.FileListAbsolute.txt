@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.deps.json
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.runtimeconfig.json
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.runtimeconfig.dev.json
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.dll
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\ref\TrabajoPracticoVerdadero.Comunes.dll
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\bin\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.pdb
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.AssemblyInfo.cs
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.dll
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\ref\TrabajoPracticoVerdadero.Comunes.dll
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.pdb
+C:\Users\User\Desktop\prgvisual2020\TrabajoPracticoVerdadero\TrabajoPracticoVerdadero\Shared\obj\Debug\net5.0\TrabajoPracticoVerdadero.Comunes.genruntimeconfig.cache
